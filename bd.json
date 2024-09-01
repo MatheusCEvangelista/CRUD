@@ -1,0 +1,28 @@
+{
+  "livros": [
+    {
+      "id": "482d",
+      "name": "Pereba",
+      "description": "atomica",
+      "price": "12",
+      "quantity": "3"
+    },
+    {
+      "id": "a6a2",
+      "name": "adssa",
+      "description": "asd",
+      "price": "25",
+      "quantity": "3"
+    },
+    {
+      "id": "a0cc",
+      "name": "",
+      "description": "",
+      "price": 0,
+      "quantity": 0,
+      "ano": 0,
+      "genero": "",
+      "num": 0
+    }
+  ]
+}
